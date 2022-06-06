@@ -1,7 +1,7 @@
 # hcp
 
-# 0. Hard_Conditioned_policy
-### 0. Activating the environment (Details of the environment can be found in the report)
+# Hard_Conditioned_policy
+### Activating the environment (Details of the environment can be found in the report)
 0.1 conda activate hcp
 
 ## Robotiq 2f_140
